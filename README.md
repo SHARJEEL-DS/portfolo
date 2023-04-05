@@ -8,8 +8,7 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-```
-![image](https://user-images.githubusercontent.com/111058612/230009057-06b9f8a4-b8bc-486e-9e84-95181d487d5e.png)
+```![image](https://user-images.githubusercontent.com/111058612/230009352-df281854-e883-421a-acd6-f6c18df64635.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -18,6 +17,10 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+![image](https://user-images.githubusercontent.com/111058612/230009563-fd9cbbbb-ecbb-4981-aa7d-49102b6781cd.png)
+![image](https://user-images.githubusercontent.com/111058612/230009706-c280b87c-7627-414c-bf01-208e79291c7c.png)
+
 
 ## Learn More
 
